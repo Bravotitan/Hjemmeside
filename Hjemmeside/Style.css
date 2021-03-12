@@ -1,0 +1,34 @@
+﻿body {
+    background-color:turquoise;
+    background-image
+}
+#Intro{
+    font-family:Arial;
+    color:black;
+}
+
+#hed{
+    font-size:8px;
+}
+#Merkur{
+    font-family:Arial;
+    color:antiquewhite;
+    font-size:100px;
+}
+.Venusheader {
+    font-size: 30px;
+}
+#Venus{
+   color:red;
+
+}
+.img{
+    width:268px;
+    height:200px;
+    margin-left: 0px;
+}
+.Planet{
+    border:5px solid;
+    border-color:black;
+    text-align:center;
+}
